@@ -13,8 +13,6 @@ order: 1
   }
 </style>
 
-# Research Scientist
-
 
 #### **Laboratory Skills:** Cell culture, human and mouse sample collection and handling, RNA and DNA extraction, EV isolation, RNA library preparation, Bulk Sequencing, Western Blotting, ELISA, Chemical Inventory
 
