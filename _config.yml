@@ -23,7 +23,7 @@ description: Just another webpage...
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https:jacobgitz.github.io"
+url: "https://jacobgitz.github.io"
 
 github:
   username: aecm-developments # change to your GitHub username
