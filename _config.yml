@@ -16,10 +16,9 @@ timezone:
 
 title: Amanda Moore # the main title
 
-tagline: My personal website # it will display as the subtitle
+tagline: Contact: aecmoore@outlook.com # it will display as the subtitle
 
-description: Just another webpage...
- 
+description: My personal website 
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
