@@ -1,6 +1,6 @@
 # Jekyll Starter · Chirpy Theme
 
-A simple static website powered by [Jekyll‑theme‑Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy), maintained by GitHub users **JacobGitz** and **aecm-developments**. This is a lightweight fork of the official [jekyll-starter](https://github.com/cotes2020/jekyll-starter), pre‑configured for “admin‑only” tasks (posting, basic layout) without the full blog setup.
+A simple static website powered by [Jekyll‑theme‑Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy), maintained by GitHub users **JacobGitz** and **aecm-developments**. This is a lightweight fork of the offical jekyll-theme-chirpy, pre‑configured for “admin‑only” tasks (posting, basic layout) without the full blog setup. There is jekyll-starter, which is what this is based upon, refer to that repo. 
 
 ---
 
